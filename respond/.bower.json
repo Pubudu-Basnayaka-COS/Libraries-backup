@@ -1,0 +1,13 @@
+{
+  "name": "respond",
+  "homepage": "https://github.com/sklochko-id/respond",
+  "_release": "c8ffda96bb",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "c8ffda96bbbbbd0a455a56b2067548f189235801"
+  },
+  "_source": "https://github.com/sklochko-id/respond.git",
+  "_target": "*",
+  "_originalSource": "sklochko-id/respond"
+}
